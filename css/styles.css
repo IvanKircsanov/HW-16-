@@ -1,0 +1,10 @@
+.bg-box {
+  background-image: url("../img/Haus.webp"), url("../img/Lampe.png"), url("../img/Donut-min.png"), url("../img/Igel.webp"), url("../img/Wiese-min.png");
+  background-color: green;
+  background-size: 50%, 5%, 5%, 5%, 23%;
+  background-position: center, top, right, left, bottom;
+  background-repeat: no-repeat, repeat-x, repeat-y, repeat-y, repeat-x;
+  height: 700px;
+  width: 1000px;
+  margin: 250px auto;
+}
